@@ -1,4 +1,4 @@
-This is a todo list app using react app
+This is an expence manager app using react app
 
 In this app you can manage your expence. You can see all your Expences , Income and Current balance 
 You can see your transaction History and also delete it. It also delete form your records
